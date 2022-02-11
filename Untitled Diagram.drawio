@@ -1,1 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2022-02-11T13:28:11.352Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" version="16.5.4" etag="LpsSZOE2g-LdtRMGWodd" type="github"><diagram id="7iTIZVN0DzwUxNRBZhhm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-11T13:43:23.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="P8Dd4Aj0duGG_Helm0Ps" version="16.5.4" type="github">
+  <diagram id="7iTIZVN0DzwUxNRBZhhm" name="Page-1">
+    <mxGraphModel dx="782" dy="1637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TIBrS6brGKW57HmacOK9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TIBrS6brGKW57HmacOK9-1" target="TIBrS6brGKW57HmacOK9-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="110" />
+              <mxPoint x="390" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TIBrS6brGKW57HmacOK9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TIBrS6brGKW57HmacOK9-1" target="TIBrS6brGKW57HmacOK9-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIBrS6brGKW57HmacOK9-1" value="client" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/infrastructure/microservices_mesh.svg;" vertex="1" parent="1">
+          <mxGeometry x="170" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TIBrS6brGKW57HmacOK9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TIBrS6brGKW57HmacOK9-2" target="TIBrS6brGKW57HmacOK9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIBrS6brGKW57HmacOK9-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIBrS6brGKW57HmacOK9-2" target="TIBrS6brGKW57HmacOK9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIBrS6brGKW57HmacOK9-2" value="product" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/infrastructure/microservices_mesh.svg;" vertex="1" parent="1">
+          <mxGeometry x="350" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TIBrS6brGKW57HmacOK9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TIBrS6brGKW57HmacOK9-3" target="TIBrS6brGKW57HmacOK9-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="110" />
+              <mxPoint x="390" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TIBrS6brGKW57HmacOK9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIBrS6brGKW57HmacOK9-3" target="TIBrS6brGKW57HmacOK9-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIBrS6brGKW57HmacOK9-3" value="transaction" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/infrastructure/microservices_mesh.svg;" vertex="1" parent="1">
+          <mxGeometry x="530" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TIBrS6brGKW57HmacOK9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TIBrS6brGKW57HmacOK9-5" target="TIBrS6brGKW57HmacOK9-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIBrS6brGKW57HmacOK9-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/gnomeicontheme/48x48/apps/gnome-server-config.png" vertex="1" parent="1">
+          <mxGeometry x="366" y="40" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="TIBrS6brGKW57HmacOK9-9" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.git_repository;" vertex="1" parent="1">
+          <mxGeometry x="364" y="-60" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TIBrS6brGKW57HmacOK9-11" value="clients" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-isometric-web-hosting-servers/50/database-cache-128.png" vertex="1" parent="1">
+          <mxGeometry x="165" y="350" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TIBrS6brGKW57HmacOK9-12" value="products" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-isometric-web-hosting-servers/50/database-cache-128.png" vertex="1" parent="1">
+          <mxGeometry x="345" y="350" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TIBrS6brGKW57HmacOK9-13" value="transactions&lt;br&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-isometric-web-hosting-servers/50/database-cache-128.png" vertex="1" parent="1">
+          <mxGeometry x="525" y="350" width="90" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
